@@ -1,0 +1,2 @@
+1. Visualização de Vagas: O sistema deve exibir visualmente quais vagas estão livres e quais estão ocupadas no momento exato do acesso.
+2. Restrição de Vagas de Funcionários: O sistema deve alertar o aluno caso ele tente selecionar em uma vaga exclusiva para funcionários.
